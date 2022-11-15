@@ -1,0 +1,39 @@
+{
+  "clientes": [
+    {
+      "nombre": "Juan NUEVO!",
+      "email": "correo2@correo.com",
+      "telefono": "12",
+      "empresa": "12212",
+      "id": 26
+    },
+    {
+      "nombre": "Juan",
+      "email": "pizzza.planeta@gmail.com",
+      "telefono": "6183218790",
+      "empresa": "Cualquiera",
+      "id": 27
+    },
+    {
+      "nombre": "juan c ",
+      "email": "pizzza.planeta@gmail.com",
+      "telefono": "2345",
+      "empresa": "Cualquiera",
+      "id": 28
+    },
+    {
+      "nombre": " kasjdfh",
+      "email": "correo@correo.com",
+      "telefono": "6183218790",
+      "empresa": "Cualquiera",
+      "id": 29
+    },
+    {
+      "nombre": " kasjdfh",
+      "email": "correo@correo.com",
+      "telefono": "6183218790",
+      "empresa": "Cualquiera",
+      "id": 30
+    }
+  ]
+}
